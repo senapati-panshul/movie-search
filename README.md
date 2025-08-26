@@ -1,8 +1,4 @@
-Got it ✅ You want a **completely different README** so it doesn’t look similar at all. I’ll restructure it, change the writing style, simplify/expand where needed, and keep **only Windows commands** for clarity.
 
-Here’s a fresh version:
-
-````markdown
 # 🎥 Movie Plot Semantic Search  
 
 **Author**: Panshul Senapati (221020443, DSAI)  
